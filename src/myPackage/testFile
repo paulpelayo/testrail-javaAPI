@@ -1,0 +1,10 @@
+caseID,priority_id,estimate,steps,
+1,1,5m,step1,result1
+,,,step2,result2
+,,,step3,result3
+2,2,10m,step1,result1
+,,,step2,result2
+3,4,15m,step1,result1
+,,,step2,result2
+,,,step3,result3
+,,,step4,result4
